@@ -1,8 +1,12 @@
-#Itamar Junior 
+# Hello, World! 👋
+☑️ Me chamo Itamar Alves Ferreira Junior, e sou Desenvolvedor Backend
 
-[![ Emblema do Gmail ](https://img.shields.io/badge/-cdajuniorf@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cdajuniorf@gmail.com)](mailto:cdajuniorf@gmail.com)
+📚 Estou participando ativamente de projetos, encontros e cursos com foco em desenvolvimento backend, além de trabalhar em projetos pessoais e profissionais para manter minha experiência prática constantemente em evolução, e também construir uma carreira sólida na área de desenvolvimento de software.
 
-I am a student of Information Systems and I am passionate about studying and games.
+🖥️
+PHP Laravel MySQL 
 
-
-
+## Contatos:
+- [LinkedIn](https://www.linkedin.com/in/itamar-junior-b24006237/)
+- [GitHub](https://github.com/pogtora)
+- [Email](mailto:cdajuniorf@gmail.com)
