@@ -1,7 +1,7 @@
 # Hello, World! 👋
 ☑️ Me chamo Itamar Alves Ferreira Junior, e sou Desenvolvedor Backend 🖥️
 
-📚 Estou participando ativamente de projetos, encontros e cursos com foco em desenvolvimento web, além de trabalhar em projetos pessoais e profissionais para manter minha experiência prática constantemente em evolução, e também construir uma carreira sólida na área de desenvolvimento de software.
+📚 Estou participando ativamente de projetos, encontros e cursos com foco no desenvolvimento web, além de trabalhar em projetos pessoais e profissionais para manter minha experiência prática constantemente em evolução, e também construir uma carreira sólida na área de desenvolvimento de software.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
