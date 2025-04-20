@@ -1,5 +1,5 @@
 # Hello, World! 👋
-☑️ Me chamo Itamar Alves Ferreira Junior, e sou Desenvolvedor FullStack 🖥️
+☑️ Me chamo Itamar Alves Ferreira Junior, e sou Desenvolvedor Backend 🖥️
 
 📚 Estou participando ativamente de projetos, encontros e cursos com foco no desenvolvimento web, além de trabalhar em projetos pessoais e profissionais para manter minha experiência prática constantemente em evolução, e também construir uma carreira sólida na área de desenvolvimento de software.
 
