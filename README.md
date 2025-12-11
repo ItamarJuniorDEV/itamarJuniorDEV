@@ -10,9 +10,29 @@
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,laravel,express,adonis&theme=dark" />
-<img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,docker,linux,git,github&theme=dark" />
-<img src="https://skillicons.dev/icons?i=jest,vitest,postman,swagger,vscode,react,figma&theme=dark" />
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/docs/)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/docs/)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net/docs.php)
+[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://laravel.com/docs)
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
+[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://docs.nestjs.com/)
+
+[![AdonisJS](https://skillicons.dev/icons?i=adonis&theme=dark)](https://docs.adonisjs.com/)
+[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://www.prisma.io/docs)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/docs/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://dev.mysql.com/doc/)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docs.docker.com/)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.kernel.org/doc/)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/doc)
+
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://docs.github.com/)
+[![Jest](https://skillicons.dev/icons?i=jest&theme=dark)](https://jestjs.io/docs/getting-started)
+[![Vitest](https://skillicons.dev/icons?i=vitest&theme=dark)](https://vitest.dev/guide/)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://learning.postman.com/docs/)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/docs)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://help.figma.com/)
 
 ##
 
