@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Itamar+Junior;Backend+Developer)](https://git.io/typing-svg)
+# Itamar Junior
+
+**Backend Developer**
 
 Node.js · TypeScript · APIs REST
 
@@ -15,12 +17,12 @@ Node.js · TypeScript · APIs REST
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItamarJuniorDEV&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItamarJuniorDEV&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ItamarJuniorDEV&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItamarJuniorDEV&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItamarJuniorDEV&theme=github_dark&utcOffset=-3"/>
 </div>
 
 ##
@@ -61,14 +63,6 @@ class BackendDeveloper {
     currentFocus = "APIs escaláveis para agronegócio";
 }
 ```
-
-##
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItamarJuniorDEV&custom_title=Contribution%20Graph&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
-
-</div>
 
 ##
 
