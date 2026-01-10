@@ -1,12 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Itamar+Junior)](https://git.io/typing-svg)
-
-</div>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItamarJuniorDEV&theme=github_dark"/>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Itamar+Junior)](https://git.io/typing-svg)
 
 ### Technologies
 
