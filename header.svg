@@ -1,0 +1,204 @@
+<svg width="1200" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background with green tint -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#040d04"/>
+      <stop offset="30%" style="stop-color:#071a0a"/>
+      <stop offset="60%" style="stop-color:#0a1f0d"/>
+      <stop offset="100%" style="stop-color:#04120a"/>
+    </linearGradient>
+    
+    <!-- Green gradients -->
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#4ade80"/>
+    </linearGradient>
+    <linearGradient id="greenLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22c55e;stop-opacity:0"/>
+      <stop offset="10%" style="stop-color:#22c55e;stop-opacity:1"/>
+      <stop offset="90%" style="stop-color:#4ade80;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="greenGlowBg" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e;stop-opacity:0.15"/>
+      <stop offset="50%" style="stop-color:#22c55e;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:0"/>
+    </linearGradient>
+    <radialGradient id="spotLeft" cx="20%" cy="40%">
+      <stop offset="0%" style="stop-color:#22c55e;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="spotRight" cx="80%" cy="60%">
+      <stop offset="0%" style="stop-color:#4ade80;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#4ade80;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bigGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feComposite in="blur" operator="over"/>
+    </filter>
+    <filter id="neonGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+    <!-- Dot grid -->
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.6" fill="#22c55e" opacity="0.12"/>
+    </pattern>
+
+    <clipPath id="clip"><rect width="1200" height="320"/></clipPath>
+  </defs>
+  
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  
+  <!-- Green ambient spots -->
+  <rect width="1200" height="320" fill="url(#spotLeft)"/>
+  <rect width="1200" height="320" fill="url(#spotRight)"/>
+  
+  <!-- Central glow (big and bright) -->
+  <ellipse cx="600" cy="130" rx="500" ry="220" fill="url(#greenGlowBg)" filter="url(#bigGlow)"/>
+  
+  <!-- Extra glow spots -->
+  <ellipse cx="250" cy="80" rx="200" ry="120" fill="#22c55e" opacity="0.025" filter="url(#bigGlow)"/>
+  <ellipse cx="950" cy="240" rx="200" ry="120" fill="#4ade80" opacity="0.025" filter="url(#bigGlow)"/>
+  
+  <!-- Dot grid -->
+  <rect width="1200" height="320" fill="url(#dots)"/>
+  
+  <!-- Orbit rings (more visible) -->
+  <g clip-path="url(#clip)">
+    <ellipse cx="600" cy="160" rx="540" ry="165" fill="none" stroke="#22c55e" stroke-width="0.6" stroke-dasharray="5 10" opacity="0.1"/>
+    <ellipse cx="600" cy="160" rx="420" ry="125" fill="none" stroke="#4ade80" stroke-width="0.4" stroke-dasharray="3 12" opacity="0.07"/>
+    <ellipse cx="600" cy="160" rx="300" ry="85" fill="none" stroke="#86efac" stroke-width="0.3" stroke-dasharray="2 16" opacity="0.05"/>
+  </g>
+
+  <!-- ===== TERMINAL LEFT (PHP/Laravel) ===== -->
+  <g font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace">
+    <circle cx="48" cy="52" r="4.5" fill="#ff5f57" opacity="0.25"/>
+    <circle cx="63" cy="52" r="4.5" fill="#febc2e" opacity="0.25"/>
+    <circle cx="78" cy="52" r="4.5" fill="#28c840" opacity="0.25"/>
+    
+    <text x="42" y="80" font-size="13" fill="#22c55e" opacity="0.35">$ composer install</text>
+    <text x="58" y="100" font-size="13" fill="#4ade80" opacity="0.28">✓ Dependencies installed</text>
+    <text x="42" y="126" font-size="13" fill="#22c55e" opacity="0.22">$ php artisan migrate</text>
+    <text x="58" y="146" font-size="13" fill="#4ade80" opacity="0.17">✓ Eloquent ready</text>
+    <text x="42" y="172" font-size="13" fill="#22c55e" opacity="0.12">$ php artisan test</text>
+    <text x="58" y="192" font-size="13" fill="#4ade80" opacity="0.08">✓ 24 tests passed</text>
+  </g>
+
+  <!-- ===== TERMINAL RIGHT (Node) ===== -->
+  <g font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace">
+    <circle cx="948" cy="148" r="4.5" fill="#ff5f57" opacity="0.25"/>
+    <circle cx="963" cy="148" r="4.5" fill="#febc2e" opacity="0.25"/>
+    <circle cx="978" cy="148" r="4.5" fill="#28c840" opacity="0.25"/>
+    
+    <text x="942" y="176" font-size="13" fill="#22c55e" opacity="0.10">$ npm install</text>
+    <text x="958" y="196" font-size="13" fill="#4ade80" opacity="0.15">✓ Packages ready</text>
+    <text x="942" y="222" font-size="13" fill="#22c55e" opacity="0.20">$ node ace serve --watch</text>
+    <text x="958" y="242" font-size="13" fill="#4ade80" opacity="0.26">✓ Server on :3333</text>
+    <text x="942" y="268" font-size="13" fill="#22c55e" opacity="0.32">$ node ace test</text>
+    <text x="958" y="288" font-size="13" fill="#4ade80" opacity="0.22">✓ All passing</text>
+  </g>
+
+  <!-- Decorative brackets -->
+  <text x="130" y="275" font-family="'SF Mono',monospace" font-size="65" fill="#22c55e" opacity="0.07" font-weight="700">{</text>
+  <text x="1010" y="110" font-family="'SF Mono',monospace" font-size="65" fill="#4ade80" opacity="0.07" font-weight="700">}</text>
+
+  <!-- ===== ANIMATED PARTICLES (more and brighter) ===== -->
+  <circle cx="170" cy="42" r="2" fill="#22c55e" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.15;0.55" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="305" cy="28" r="1.5" fill="#4ade80" opacity="0.45">
+    <animate attributeName="opacity" values="0.45;0.12;0.45" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="18" r="1.2" fill="#86efac" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.08;0.3" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="22" r="1.3" fill="#22c55e" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.1;0.35" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="870" cy="38" r="2.2" fill="#4ade80" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="58" r="1.5" fill="#22c55e" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="140" r="1.8" fill="#4ade80" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.06;0.3" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="180" r="1.5" fill="#22c55e" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.06;0.25" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="710" cy="290" r="2" fill="#22c55e" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.08;0.35" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="470" cy="295" r="1.3" fill="#4ade80" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.06;0.3" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="240" cy="280" r="1.8" fill="#86efac" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.05;0.2" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="295" r="1.5" fill="#22c55e" opacity="0.25"/>
+  <circle cx="600" cy="15" r="1.5" fill="#4ade80" opacity="0.35"/>
+  <circle cx="530" cy="300" r="1" fill="#22c55e" opacity="0.2"/>
+  <circle cx="350" cy="300" r="0.8" fill="#4ade80" opacity="0.15"/>
+  <circle cx="1100" cy="280" r="1.2" fill="#22c55e" opacity="0.18"/>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  
+  <!-- Top accent line (thicker) -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#greenLine)"/>
+
+  <!-- Name with stronger glow -->
+  <text x="600" y="125" 
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" 
+        font-size="56" fill="#e8fce8" font-weight="700" 
+        text-anchor="middle" letter-spacing="3" filter="url(#glow)">
+    Itamar Junior
+  </text>
+  
+  <!-- Role badge (more vivid) -->
+  <rect x="440" y="144" width="320" height="36" rx="7" fill="#22c55e" opacity="0.12"/>
+  <rect x="440" y="144" width="320" height="36" rx="7" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.5"/>
+  <text x="600" y="168" 
+        font-family="'SF Mono','Fira Code','JetBrains Mono',Consolas,monospace" 
+        font-size="15" fill="#4ade80" text-anchor="middle" letter-spacing="4" filter="url(#neonGlow)">
+    BACKEND DEVELOPER
+  </text>
+
+  <!-- Divider (brighter) -->
+  <rect x="530" y="200" width="140" height="2" fill="url(#greenLine)" opacity="0.7" rx="1"/>
+
+  <!-- Tech pills (more visible) -->
+  <rect x="380" y="220" width="78" height="30" rx="15" fill="#22c55e" opacity="0.1"/>
+  <rect x="380" y="220" width="78" height="30" rx="15" fill="none" stroke="#22c55e" stroke-width="0.8" opacity="0.4"/>
+  <text x="419" y="240" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#86efac" text-anchor="middle" letter-spacing="1">PHP</text>
+  
+  <rect x="472" y="220" width="108" height="30" rx="15" fill="#22c55e" opacity="0.1"/>
+  <rect x="472" y="220" width="108" height="30" rx="15" fill="none" stroke="#22c55e" stroke-width="0.8" opacity="0.4"/>
+  <text x="526" y="240" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#86efac" text-anchor="middle" letter-spacing="1">Laravel</text>
+
+  <rect x="594" y="220" width="108" height="30" rx="15" fill="#22c55e" opacity="0.1"/>
+  <rect x="594" y="220" width="108" height="30" rx="15" fill="none" stroke="#22c55e" stroke-width="0.8" opacity="0.4"/>
+  <text x="648" y="240" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#86efac" text-anchor="middle" letter-spacing="1">Node.js</text>
+
+  <rect x="716" y="220" width="104" height="30" rx="15" fill="#22c55e" opacity="0.1"/>
+  <rect x="716" y="220" width="104" height="30" rx="15" fill="none" stroke="#22c55e" stroke-width="0.8" opacity="0.4"/>
+  <text x="768" y="240" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#86efac" text-anchor="middle" letter-spacing="1">Docker</text>
+
+  <!-- Location -->
+  <text x="600" y="282" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" 
+        font-size="12" fill="#4ade80" text-anchor="middle" letter-spacing="2" opacity="0.4">
+    BRASIL 🇧🇷
+  </text>
+
+  <!-- Bottom accent line (thicker) -->
+  <rect x="0" y="317" width="1200" height="3" fill="url(#greenLine)"/>
+</svg>
