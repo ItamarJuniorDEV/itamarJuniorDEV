@@ -21,8 +21,7 @@
 
 - Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
 - Apaixonado por entender o problema antes de escrever a solução — diagramas, fluxogramas e histórias de usuário vêm antes do código.
-- Experiência como **Scrum Master**, **Backend**, **Frontend Moderno** e em melhoria de processos em times de desenvolvimento.
-- Cursando **Pós-graduação em Arquitetura de Software** — Anhanguera.
+- Experiência como **Scrum Master**, **Backend**, **Frontend Moderno** e em **Melhoria de Processos** em times de desenvolvimento.
 - Aprofundando em **Design Patterns** e **arquitetura limpa** aplicados a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
 
@@ -31,7 +30,6 @@
 - Backend developer focused on **PHP/Laravel** and **Node.js**.
 - Passionate about understanding the problem before writing the solution — diagrams, flowcharts, and user stories come before code.
 - Experience as **Scrum Master** and in process improvement within development teams.
-- Pursuing a **Postgraduate degree in Software Architecture** — Anhanguera.
 - Deepening knowledge in **Design Patterns** and **clean architecture** applied to real-world projects.
 - I dedicate part of my time to **mentoring** beginner devs, because teaching is one of the best ways to grow.
 
