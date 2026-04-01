@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itamar-junior-b24006237/">
-    <img src="https://img.shields.io/badge/LinkedIn-ItamarJunior-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ItamarJunior-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://itamarjr.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-itamarjr.vercel.app-000?style=flat-square&logo=vercel&logoColor=4ade80" />
+    <img src="https://img.shields.io/badge/Portfólio-itamarjr.vercel.app-000?style=flat-square&logo=vercel&logoColor=4ade80" alt="Portfólio" />
   </a>
   <a href="https://twitter.com/juniorferreira07">
-    <img src="https://img.shields.io/badge/Twitter-@juniorferreira07-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@juniorferreira07-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:cdajuniorf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cdajuniorf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-cdajuniorf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -21,17 +21,17 @@
 
 - Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
 - Apaixonado por entender o problema antes de escrever a solução — diagramas, fluxogramas e histórias de usuário vêm antes do código.
-- Experiência como **Scrum Master**, **Backend**, **Frontend Moderno** e em **Melhoria de Processos** em times de desenvolvimento.
-- Aprofundando em **Design Patterns** e **arquitetura limpa** aplicados a projetos reais.
+- Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend moderno** e em **melhoria de processos** em times de desenvolvimento.
+- Aprofundando meus conhecimentos em **Design Patterns** e **arquitetura limpa**, aplicados a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
 
 ## 🔴🟡 About — English Version
 
 - Backend developer focused on **PHP/Laravel** and **Node.js**.
 - Passionate about understanding the problem before writing the solution — diagrams, flowcharts, and user stories come before code.
-- Experience as **Scrum Master** and in process improvement within development teams.
-- Deepening knowledge in **Design Patterns** and **clean architecture** applied to real-world projects.
-- I dedicate part of my time to **mentoring** beginner devs, because teaching is one of the best ways to grow.
+- Experience working as a **Scrum Master**, **backend developer**, and **modern frontend developer**, with a strong focus on **process improvement** within development teams.
+- Deepening my knowledge of **Design Patterns** and **clean architecture** applied to real-world projects.
+- I dedicate part of my time to **mentoring junior developers**, because teaching is one of the best ways to grow.
 
 ---
 
@@ -65,15 +65,15 @@
 ## 📊 Stats & Contributions
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&text_color=9ca3af&langs_count=6" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&text_color=9ca3af&langs_count=6" alt="Top Languages" />
   &nbsp;
   <a href="https://github.com/ItamarJuniorDEV">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItamarJuniorDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&icon_color=22c55e&text_color=9ca3af&count_private=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItamarJuniorDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&icon_color=22c55e&text_color=9ca3af&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarJuniorDEV&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=9ca3af&dates=365a3a" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarJuniorDEV&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=9ca3af&dates=365a3a" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItamarJuniorDEV&color=22c55e&style=flat-square&label=Visitantes" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ItamarJuniorDEV&color=22c55e&style=flat-square&label=Visitantes" alt="Profile views" />
 </p>
 
 <p align="center">
