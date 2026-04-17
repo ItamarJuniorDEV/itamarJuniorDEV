@@ -81,8 +81,9 @@
 ## 🎓 Formação / Education
 
 - **Sistemas de Informação** — UFN *(concluído / completed)*
-- **Pós-graduação em Arquitetura de Software** — Anhanguera *(concluído / completed)*
-
+- **Pós-graduação em Arquitetura de Software** — Faculdade Anhanguera *(concluído / completed)*
+- **MBA em Engenharia de Projetos e Gestão de Riscos** — Faculdade Anhanguera *(Em andamento / In progress)*
+- 
 ---
 
 ## 📬 Como me encontrar / How to reach me
