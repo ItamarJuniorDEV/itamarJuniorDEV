@@ -20,7 +20,7 @@
 ## 🟢🟡 Sobre — Versão em Português
 
 - Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
-- Apaixonado por entender o problema antes de escrever a solução — diagramas, fluxogramas e histórias de usuário vêm antes do código.
+- Apaixonado por entender o problema antes de escrever a solução por meio de diagramas, fluxogramas e histórias de usuário vêm antes do código.
 - Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend moderno** e em **melhoria de processos** em times de desenvolvimento.
 - Aprofundando meus conhecimentos em **Design Patterns** e **arquitetura limpa**, aplicados a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
