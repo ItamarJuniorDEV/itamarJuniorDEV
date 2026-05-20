@@ -19,7 +19,7 @@
 - Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
 - Apaixonado por entender o problema antes de escrever a solução por meio de diagramas, fluxogramas e histórias de usuário vêm antes do código.
 - Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend moderno** e em **melhoria de processos** em times de desenvolvimento.
-- Aprofundando meus conhecimentos em **Design Patterns** e **arquitetura limpa**, aplicados a projetos reais.
+- Aprofundando meus conhecimentos **arquitetura limpa**, aplicados a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
 
 ## 🔴🟡 About — English Version
@@ -27,7 +27,7 @@
 - Backend developer focused on **PHP/Laravel** and **Node.js**.
 - Passionate about understanding the problem before writing the solution — diagrams, flowcharts, and user stories come before code.
 - Experience working as a **Scrum Master**, **backend developer**, and **modern frontend developer**, with a strong focus on **process improvement** within development teams.
-- Deepening my knowledge of **Design Patterns** and **clean architecture** applied to real-world projects.
+- Deepening my knowledge of **clean architecture** applied to real-world projects.
 - I dedicate part of my time to **mentoring junior developers**, because teaching is one of the best ways to grow.
 
 ---
