@@ -7,9 +7,6 @@
   <a href="https://itamarjr.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-itamarjr.vercel.app-000?style=flat-square&logo=vercel&logoColor=4ade80" alt="Portfólio" />
   </a>
-  <a href="https://twitter.com/juniorferreira07">
-    <img src="https://img.shields.io/badge/Twitter-@juniorferreira07-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:cdajuniorf@gmail.com">
     <img src="https://img.shields.io/badge/Email-cdajuniorf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
