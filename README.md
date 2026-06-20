@@ -14,25 +14,25 @@
 
 ---
 
-## 🟢🟡 Sobre — Versão em Português
+## Sobre — Versão em Português
 
 - Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
-- Apaixonado por entender o problema antes de escrever a solução por meio de diagramas, fluxogramas e histórias de usuário vêm antes do código.
-- Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend moderno** e em **melhoria de processos** em times de desenvolvimento.
-- Aprofundando meus conhecimentos **arquitetura limpa**, aplicados a projetos reais.
+- Gosto de entender o problema antes de escrever a solução: diagramas, fluxogramas e histórias de usuário vêm antes do código.
+- Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend** e em **melhoria de processos** em times de desenvolvimento.
+- Aprofundando meus conhecimentos **em arquitetura limpa**, aplicada a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
 
-## 🔴🟡 About — English Version
+## About — English Version
 
 - Backend developer focused on **PHP/Laravel** and **Node.js**.
-- Passionate about understanding the problem before writing the solution — diagrams, flowcharts, and user stories come before code.
-- Experience working as a **Scrum Master**, **backend developer**, and **modern frontend developer**, with a strong focus on **process improvement** within development teams.
+- I like to understand the problem before writing the solution: diagrams, flowcharts, and user stories come before code.
+- Experience working as a **Scrum Master**, **backend developer**, and **frontend developer**, with a strong focus on **process improvement** within development teams.
 - Deepening my knowledge of **clean architecture** applied to real-world projects.
 - I dedicate part of my time to **mentoring junior developers**, because teaching is one of the best ways to grow.
 
 ---
 
-## ✨ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Stats & Contributions
+## Stats & Contributions
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&text_color=9ca3af&langs_count=6" alt="Top Languages" />
@@ -75,15 +75,15 @@
 
 ---
 
-## 🎓 Formação / Education
+## Formação / Education
 
 - **Sistemas de Informação** — UFN *(concluído / completed)*
 - **Pós-graduação em Arquitetura de Software** — Faculdade Anhanguera *(concluído / completed)*
-- **MBA em Engenharia de Projetos e Gestão de Riscos** — Faculdade Anhanguera *(Em andamento / In progress)*
-  
+- **MBA em Engenharia de Projetos e Gestão de Riscos** — Faculdade Anhanguera *(em andamento / in progress)*
+
 ---
 
-## 📬 Como me encontrar / How to reach me
+## Como me encontrar / How to reach me
 
 - **Email:** [cdajuniorf@gmail.com](mailto:cdajuniorf@gmail.com)
 - **LinkedIn:** [linkedin.com/in/itamar-junior-b24006237](https://www.linkedin.com/in/itamar-junior-b24006237/)
