@@ -47,6 +47,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ### Tools & Environments
 
@@ -64,13 +66,11 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&text_color=9ca3af&langs_count=6" alt="Top Languages" />
   &nbsp;
-  <a href="https://github.com/ItamarJuniorDEV">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItamarJuniorDEV&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&icon_color=22c55e&text_color=9ca3af&count_private=true" alt="GitHub Stats" />
-  </a>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarJuniorDEV&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=9ca3af&dates=365a3a" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarJuniorDEV&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=9ca3af&dates=365a3a" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItamarJuniorDEV&bg_color=0a0a0a&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=22c55e&hide_border=true" alt="Contribution Activity" />
 </p>
 
 ---
