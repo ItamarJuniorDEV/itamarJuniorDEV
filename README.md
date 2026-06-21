@@ -24,7 +24,7 @@
 
 ## About — English Version
 
-- Backend developer focused on **PHP/Laravel** and **Node.js**.
+- Fullstack developer focused on **PHP/Laravel**.
 - I like to understand the problem before writing the solution.
 - Experience working as a **Scrum Master**, **backend developer**, and **frontend developer**, with a strong focus on **process improvement** within development teams.
 - Deepening my knowledge of **clean architecture** applied to real-world projects.
