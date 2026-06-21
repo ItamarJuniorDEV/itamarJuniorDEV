@@ -17,7 +17,7 @@
 ## Sobre — Versão em Português
 
 - Desenvolvedor Fullstack **PHP/Laravel**.
-- Gosto de entender o problema antes de escrever a solução: diagramas, fluxogramas e histórias de usuário vêm antes do código.
+- Gosto de entender o problema antes de escrever a solução.
 - Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend** e em **melhoria de processos** em times de desenvolvimento.
 - Aprofundando meus conhecimentos **em arquitetura limpa**, aplicada a projetos reais.
 - Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
@@ -25,7 +25,7 @@
 ## About — English Version
 
 - Backend developer focused on **PHP/Laravel** and **Node.js**.
-- I like to understand the problem before writing the solution: diagrams, flowcharts, and user stories come before code.
+- I like to understand the problem before writing the solution.
 - Experience working as a **Scrum Master**, **backend developer**, and **frontend developer**, with a strong focus on **process improvement** within development teams.
 - Deepening my knowledge of **clean architecture** applied to real-world projects.
 - I dedicate part of my time to **mentoring junior developers**, because teaching is one of the best ways to grow.
