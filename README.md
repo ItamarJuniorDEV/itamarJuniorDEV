@@ -16,7 +16,7 @@
 
 ## Sobre — Versão em Português
 
-- Desenvolvedor backend com foco em **PHP/Laravel** e **Node.js**.
+- Desenvolvedor Fullstack **PHP/Laravel**.
 - Gosto de entender o problema antes de escrever a solução: diagramas, fluxogramas e histórias de usuário vêm antes do código.
 - Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend** e em **melhoria de processos** em times de desenvolvimento.
 - Aprofundando meus conhecimentos **em arquitetura limpa**, aplicada a projetos reais.
