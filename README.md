@@ -61,20 +61,6 @@
 
 ---
 
-## Stats & Contributions
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJuniorDEV&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=4ade80&text_color=9ca3af&langs_count=6" alt="Top Languages" />
-  &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarJuniorDEV&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=4ade80&currStreakLabel=4ade80&sideLabels=9ca3af&dates=365a3a" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItamarJuniorDEV&bg_color=0a0a0a&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=22c55e&hide_border=true" alt="Contribution Activity" />
-</p>
-
----
-
 ## Formação / Education
 
 - **Sistemas de Informação** — UFN *(concluído / completed)*
@@ -90,10 +76,6 @@
 - **Portfólio:** [itamarjr.vercel.app](https://itamarjr.vercel.app/)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItamarJuniorDEV&color=22c55e&style=flat-square&label=Visitantes" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>"Entender o sistema é tão importante quanto construí-lo."</i>
