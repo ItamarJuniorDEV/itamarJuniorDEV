@@ -70,7 +70,6 @@
 
 - **Email:** [cdajuniorf@gmail.com](mailto:cdajuniorf@gmail.com)
 - **LinkedIn:** [linkedin.com/in/itamar-junior-b24006237](https://www.linkedin.com/in/itamar-junior-b24006237/)
-- **Portfólio:** [itamarjr.vercel.app](https://itamarjr.vercel.app/)
 
 ---
 
