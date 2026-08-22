@@ -1,5 +1,7 @@
 # Itamar Junior
 
+Desenvolvedor backend com foco principal em **PHP/Laravel**, fundamentos de PHP e experiência complementar com **Node.js**. Gosto de trabalhar com regras de negócio, APIs, bancos relacionais, testes automatizados e consistência de dados.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/itamar-junior-b24006237/">
     <img src="https://img.shields.io/badge/LinkedIn-ItamarJunior-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -9,70 +11,40 @@
   </a>
 </p>
 
----
+## Sobre
 
-## Sobre — Versão em Português
+Minha base de trabalho está em backend: desenho de endpoints, validação, autenticação e autorização, modelagem de dados, transações e testes. No portfólio também mantenho projetos em Node.js para complementar a experiência com APIs e diferentes abordagens de persistência.
 
-- Desenvolvedor Fullstack **PHP/Laravel**.
-- Gosto de entender o problema antes de escrever a solução.
-- Experiência atuando como **Scrum Master**, **desenvolvedor backend**, **desenvolvedor frontend** e em **melhoria de processos** em times de desenvolvimento.
-- Aprofundando meus conhecimentos **em arquitetura limpa**, aplicada a projetos reais.
-- Dedico parte do meu tempo a **mentorar** devs iniciantes, porque ensinar é uma das melhores formas de evoluir.
+Já atuei em desenvolvimento backend e frontend, Scrum Master e melhoria de processos em times de software. Atualmente continuo aprofundando arquitetura e decisões de projeto a partir de aplicações práticas.
 
-## About — English Version
+**English:** Backend developer primarily focused on PHP/Laravel and PHP fundamentals, with complementary Node.js experience.
 
-- Fullstack developer focused on **PHP/Laravel**.
-- I like to understand the problem before writing the solution.
-- Experience working as a **Scrum Master**, **backend developer**, and **frontend developer**, with a strong focus on **process improvement** within development teams.
-- Deepening my knowledge of **clean architecture** applied to real-world projects.
-- I dedicate part of my time to **mentoring junior developers**, because teaching is one of the best ways to grow.
+## Projetos em destaque
 
----
+| Projeto | Stack | Destaques técnicos |
+| --- | --- | --- |
+| [Car Rental API](https://github.com/ItamarJuniorDEV/car-rental-api) | Laravel, PostgreSQL | Sanctum, Policies, transações, locking e testes de regras de locação |
+| [Planboard API](https://github.com/ItamarJuniorDEV/planboard-api) | Laravel | isolamento de dados por usuário, autorização e testes de regressão |
+| [Proposals API](https://github.com/ItamarJuniorDEV/proposals-api) | PHP, PostgreSQL | fluxo de estados, aprovação atômica, versionamento de propostas e contratos |
+| [Animal Monitoring Support System](https://github.com/ItamarJuniorDEV/animal-monitoring-support-system) | Node.js, Express, React, MySQL | permissões, histórico transacional e classificação textual |
+| [Wallet Transfer API](https://github.com/ItamarJuniorDEV/wallet-transfer-api-express) | Express, PostgreSQL | transações, idempotência, controle de concorrência e rollback |
+| [ChefePDV](https://github.com/ItamarJuniorDEV/chefepdv-system) | PHP, PDO, MySQL | MVC em PHP puro, controle de estoque, transações e testes |
 
-## Tech Stack & Tools
+Outros projetos públicos incluem o [LinksSystem](https://github.com/ItamarJuniorDEV/links-system), aplicação Laravel com Blade e analytics, e a [Delivery API](https://github.com/ItamarJuniorDEV/delivery-api), API em Node.js/TypeScript com Prisma.
 
-### Languages
+## Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+**Backend:** PHP, Laravel, Node.js, Express, TypeScript  
+**Dados:** PostgreSQL, MySQL, SQL, Prisma, PDO  
+**Qualidade e infraestrutura:** PHPUnit, Jest, Vitest, Supertest, Docker, GitHub Actions, Git
 
-### Frameworks & Platforms
+## Formação
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+- **Sistemas de Informação** — UFN *(concluído)*
+- **Pós-graduação em Arquitetura de Software** — Faculdade Anhanguera *(concluído)*
+- **MBA em Engenharia de Projetos e Gestão de Riscos** — Faculdade Anhanguera *(concluído)*
 
-### Tools & Environments
+## Contato
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Formação / Education
-
-- **Sistemas de Informação** — UFN *(concluído / completed)*
-- **Pós-graduação em Arquitetura de Software** — Faculdade Anhanguera *(concluído / completed)*
-- **MBA em Engenharia de Projetos e Gestão de Riscos** — Faculdade Anhanguera *(concluído / completed)*
-
----
-
-## Como me encontrar / How to reach me
-
-- **Email:** [cdajuniorf@gmail.com](mailto:cdajuniorf@gmail.com)
+- **E-mail:** [cdajuniorf@gmail.com](mailto:cdajuniorf@gmail.com)
 - **LinkedIn:** [linkedin.com/in/itamar-junior-b24006237](https://www.linkedin.com/in/itamar-junior-b24006237/)
-
----
-
-<p align="center">
-  <i>"Entender o sistema é tão importante quanto construí-lo."</i>
-</p>
